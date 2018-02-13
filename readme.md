@@ -14,7 +14,7 @@
 	NOTE:
 	- File will be replaced if it already exists in the folder.
 	- Folder will be created if doesn't exist.
-	- Symbolic links(in Linux) and Shortcuts are not moved.
+	- Symbolic links(in Linux) and Shortcuts(in Windows) are not moved.
 
 ## nbig.py
 ### Features:
@@ -31,7 +31,7 @@
 ### Features:
 	- This is a standalone implementation of option 2 of destool.py
 	- Any location can be selected, see the execution step.
-	- Symbolic links(in Linux) and Shortcuts are not moved.
+	- Symbolic links(in Linux) and Shortcuts(in Windows) are not moved.
 	- Tested in Windows 7, Windows 10, Ubuntu 16.04, CentOS 6.9
 	
 ### Execution:
